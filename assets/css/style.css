@@ -285,7 +285,7 @@
 	width: 458px;
 	height: 118px;
 	flex-shrink: 0;
-	background: linear-gradient(#3c3e67, #93959fd1);
+	background: linear-gradient(to left, #3c3e67, #93959fd1);
 }
 
 .social_sets a:hover{

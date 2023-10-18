@@ -192,7 +192,7 @@
 	width: 458px;
 	height: 118px;
 	margin-top: 100px;
-	background: linear-gradient(#3c3e67, #93959fd1);
+	background: linear-gradient(to left, #3c3e67, #93959fd1);
 }
 
 .social_sets p {
